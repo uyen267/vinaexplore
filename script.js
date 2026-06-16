@@ -178,7 +178,7 @@ const destinationsData = [
         shortDesc: "Thủ phủ Tây Đô thân thương bình dị mang nét đặc trưng sông nước miền Tây với chợ nổi Cái Răng nổi tiếng nhộn nhịp.",
         description: "Cần Thơ là trung tâm kinh tế xã hội trù phú của đồng bằng sông Cửu Long, ôm trọn vẻ đẹp hiền hòa, trĩu quả của miền phù sa Tây Nam Bộ sông nước hữu tình. Nhắc đến Cần Thơ, du khách sẽ nhớ ngay đến hình ảnh bình minh lên lãng mạn trên chợ nổi Cái Răng - nơi hàng trăm ghe xuồng buôn bán nông sản nhộn nhịp, bến Ninh Kiều lộng gió soi bóng sông Hậu giăng đầy ánh đèn lãng mạn và vườn cây ăn trái sum suê trĩu quả Mỹ Khánh ngọt ngào, cùng tấm lòng mến khách bao dung đôn hậu của con người miền Tây Nam Bộ ấm áp.",
         gallery: [
-            "https://cdn-media.sforum.vn/storage/app/media/ctvseo_MH/%E1%BA%A3nh%20%C4%91%E1%BA%B9p%20c%E1%BA%A7n%20th%C6%A1/anh-dep-can-tho-35.jpg",
+            "hhttps://statics.vinpearl.com/cho-noi-cai-rang-2_1624262882.jpg",
             "https://statics.vinpearl.com/banh-cong-can-tho-4_1630225448.jpg",
             "https://datviettour.com.vn/uploads/images/tin-tuc-SEO/mien-tay/Can-tho/ben-ninh-kieu.jpeg",
             "https://cdn3.ivivu.com/2025/03/du-lich-can-tho-ivivu-1-1-1024x683.jpg"
